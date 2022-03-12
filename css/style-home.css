@@ -1,0 +1,119 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navigation-color{
+ background-color: orange;   
+}
+a:hover {
+    background-color: blue;
+  }
+.text-color{
+    color: white;
+}
+.font-size-p{
+    font-size: 20px;
+    color: white;
+}
+.top-banner{
+    background-image:url("../images/bannar1.jpg");
+    background: linear-gradient(#060606);
+    opacity: 0.8;
+    /* background-image:url("images/bannar1.jpg"); */
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.banner-padding{
+    padding: 150px;
+}
+.margin-top{
+    margin-top:-50px;
+}
+.font-size-i{
+    font-size: 3.684rem;
+}
+.hight-cd{
+    height: 100%;
+}
+.text-color-cd{
+    color: #060606;
+}
+p{
+    font-size: 20px;
+    font-weight: bold;
+    color: gray;
+}
+
+.box1{
+    height: 380px;
+    width: 280px;
+    background-color: white;
+}
+.box2{
+    height: 380px;
+    width: 280px;
+    background-color: rgb(2, 2, 170);
+}
+.box3{
+    height: 380px;
+    width: 280px;
+    background-color: white;
+}
+.box4{
+    height: 380px;
+    width: 280px;
+    background-color:black;
+}
+.box-5{
+    width: 350px;
+    height: 700px;
+    background-color: #F8F8F8;
+}
+.box-6{
+    width: 350px;
+    height: 700px;
+    background-color: #F8F8F8;
+}
+.box-7{
+    width: 350px;
+    height: 700px;
+    background-color: #F8F8F8;
+}
+.sign{
+    vertical-align: top;
+    padding-right: 0.263rem;
+    color: #0f4c81;
+}
+.price{
+    font-size: 4.211rem;
+    font-weight: 700;
+    color: #0f4c81;
+}
+.priond{
+    font-size: .789rem;
+    color: #060606;
+    text-transform: uppercase;
+}
+.reviw-color{
+    background-color: #060606;
+}
+ #zome-in img{
+     transform: scale(1);
+     transition: 0.3s ease-in-out;
+}
+ #zoom-in:hover img{
+    transform: scale(1.1);
+}
+.contract-icon{
+    font-size: 3.684rem;
+    color: rgb(62, 62, 187);
+    padding: 30px;
+}
+.margin-w{
+    margin-left: 150px;
+}
+.footer{
+    background-color: #060606;
+    height: 150px;
+    width: 100%;
+}
